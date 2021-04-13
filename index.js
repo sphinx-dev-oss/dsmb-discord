@@ -1,4 +1,5 @@
 const Discord = require('discord.js');
+const Discord_Player = require('discord-player') 
 const bot = new Discord.Client({
 	partials: ['MESSAGE', 'CHANNEL', 'REACTION']
 });
