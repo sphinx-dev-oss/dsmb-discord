@@ -9,6 +9,8 @@
 
 - This Discord bot is a Music Bot with YouTube support.
 
+## Procfile is for Heroku
+
 # Commands
 - ?help
 - ?play <URL/Song Name> (required to join voice channel first)
