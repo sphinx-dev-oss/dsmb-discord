@@ -20,5 +20,5 @@
 - ?skip
 
 
-# Created by: sphinx-dev-oss AKA Izumi
+# Created by: sphinx-dev-oss AKA KiyoshiDev
 # https://sphinx-dev-oss.gitlab.io/sphinx-dev-oss/
